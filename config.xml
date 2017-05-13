@@ -1,0 +1,12 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+
+
+
+<widget xmls   ="http://www.w3.org/ns/widgets"
+	xmlns:gap    ="httpphonegap.com/ns/1.0"
+	id            ="com.phonegap.api-request"
+	version="1.0.0">
+	<name>API Demo 2</name>
+	<description>API Demo</description>
+	<icon scr="uic1.jpg"/>
+</widget>
