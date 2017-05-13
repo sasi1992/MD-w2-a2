@@ -8,5 +8,5 @@
 	version="1.0.0">
 	<name>API Demo 2</name>
 	<description>API Demo</description>
-	<icon scr="uic1.jpg"/>
+	<icon src="uic.jpg"/>
 </widget>
